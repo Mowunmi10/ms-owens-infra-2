@@ -1,2 +1,2 @@
-# ms-owens-infra-2
-This repo will manage Iac for ms-Owen-App
+# ms-owens-infra-
+This repo will manage Iac for Iac provisionning
